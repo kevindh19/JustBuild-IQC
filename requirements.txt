@@ -1,0 +1,7 @@
+# Tested together with Python 3.12.9. Ideal simulation only; no cloud SDK required.
+qiskit==2.3.0
+numpy==2.2.6
+matplotlib==3.10.6
+pylatexenc==2.10
+ipykernel==7.1.0
+jupyterlab==4.5.0
